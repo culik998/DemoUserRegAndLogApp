@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\User\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.exe
+C:\Users\User\source\repos\DemoApp\DemoApp\bin\Debug\DemoApp.pdb
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.Form1.resources
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.Forms.RegisterForm.resources
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.Properties.Resources.resources
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+C:\Users\User\source\repos\DemoApp\DemoApp\obj\Debug\DemoApp.Forms.LoginForm.resources
